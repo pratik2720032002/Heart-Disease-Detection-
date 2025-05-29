@@ -1,7 +1,7 @@
 
 # Heart Disease Prediction Using Python and Supervised Machine Learning
 
-**Author:** Your Name  
+**Author:** Pratik Kumar Sharma 
 **Date:** May 2025  
 
 ---
@@ -94,7 +94,7 @@ Heart-Disease-Prediction/
 │   └── tables/
 ├── requirements.txt
 ├── README.md
-└── LICENSE
+
 ```
 
 ---
@@ -119,17 +119,7 @@ Heart-Disease-Prediction/
 ---
 
 ## References
-1. Benjamin, E. J., Muntner, P., Alonso, A., Bittencourt, M. S., Callaway, C. W., Carson, A. P., … Virani, S. S. (2024). Heart disease and stroke statistics—2024 update: A report from the American Heart Association. *Circulation, 149*(3), e123–e147. https://doi.org/10.1161/CIR.0000000000001136  
-2. Betancur, J., Otaki, Y., Motwani, M., Fish, M. B., Lemley, M., & Berman, D. S. (2023). Deep learning for prediction of obstructive disease from myocardial perfusion SPECT: A multicenter study. *Journal of Nuclear Medicine, 64*(2), 286–293. https://doi.org/10.2967/jnumed.122.264486  
-3. Krittanawong, C., Zhang, H., Wang, Z., Aydar, M., & Kitai, T. (2022). Artificial intelligence in precision cardiovascular medicine. *Journal of the American College of Cardiology, 80*(17), 1799–1810. https://doi.org/10.1016/j.jacc.2022.08.728  
-4. World Health Organization. (2022). *Global action plan for the prevention and control of noncommunicable diseases 2022–2030*. https://www.who.int/publications/i/item/9789240051635  
+1. Benjamin, E. J., Muntner, P., Alonso, A., Bittencourt, M. S., Callaway, C. W., Carson, A. P., … Virani, S. S. (2024). Heart disease and stroke statistics—2024 update: A report from the American Heart Association. *Circulation, 149*(3), e123–e147. https://doi.org/10.1161/CIR.0000000000001136
+2. Krittanawong, C., Zhang, H., Wang, Z., Aydar, M., & Kitai, T. (2022). Artificial intelligence in precision cardiovascular medicine. *Journal of the American College of Cardiology, 80*(17), 1799–1810. https://doi.org/10.1016/j.jacc.2022.08.728  
 
----
-
-## License
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-## Contact
-For questions or contributions, please open an issue or contact **your.email@example.com**.  
+--- 
